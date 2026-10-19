@@ -3,3 +3,5 @@
 Fast-Fowardの練習
 
 Non Fast-Fowardの練習
+
+main側の変更
